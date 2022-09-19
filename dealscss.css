@@ -1,0 +1,44 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Amatic SC";
+	font-size: 36px;
+	color:#FFF;
+}
+header
+{
+	background:url(a04b02c4b2feb8c33a39eb4dbe3787d7.jpg);
+	height:495vh;
+	background-size:cover;
+	background-position:center;
+}
+.logo img
+{
+	float:left;
+	width:170px;
+	height:110px;
+}
+.navbar
+{
+	background:#000;
+	text-align:center;
+	color:#FFF;
+}
+.navbar ul
+{
+	display:inline-flex;
+	list-style:none;
+	color:#FFF;
+}
+.navbar ul li
+{
+	width:100px;
+	margin:15px;
+	padding:15px;
+	font-size:60px;
+}
+
+
+
